@@ -1,3 +1,3 @@
 # freeCodeCamp
-&gt;:•> freeCodeCamp &lt;:•> personal work repository &lt;:•&lt;\n
+&gt;:•> freeCodeCamp &lt;:•> personal work repository &lt;:•&lt;
 ```https://www.freecodecamp.org/drpacket```
